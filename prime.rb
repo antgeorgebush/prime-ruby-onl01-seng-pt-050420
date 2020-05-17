@@ -8,4 +8,4 @@ def prime?(num)
   end
 end
 
-puts prime?(105559)
+puts prime?(7)
