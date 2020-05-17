@@ -8,4 +8,4 @@ prime?(num)
   end
 end
 
-puts prime?(999999)
+puts prime?(105557)
