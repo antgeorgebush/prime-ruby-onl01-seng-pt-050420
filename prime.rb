@@ -1,4 +1,4 @@
-prime?(num)
+def prime?(num)
   if num < 0 or num == 0 or num == 1
     return false
   else
@@ -8,4 +8,4 @@ prime?(num)
   end
 end
 
-puts prime?(105557)
+puts prime?(105559)
